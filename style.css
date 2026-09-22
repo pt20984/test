@@ -1,0 +1,19 @@
+   body {
+        background-color: pink;
+        color: rgb(139, 0, 65);
+      }
+      h1 {
+        color: rgb(255, 28, 164);
+        background-color: rgb(100, 0, 44);
+      }
+p {
+    font-family:'papyrus';
+    font-size: 24pt;
+    font-weight: bold;
+    font-style: italic;
+}
+/* . inidicates a class is selected */
+.quote {
+    color: blueviolet;
+    font: size 36pt;
+}
